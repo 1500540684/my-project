@@ -1,0 +1,1 @@
+import{_ as r,r as t,c,d as e,o as a}from"./index-Bqka696Z.js";const o={class:"user-agreement-container"},n={class:"pdf-container"},_=["src"],d={__name:"UserAgreement",setup(f){const s=t("/src/assets/doc/user.pdf");return(p,i)=>(a(),c("div",o,[e("div",n,[e("iframe",{src:s.value,frameborder:"0"},null,8,_)])]))}},m=r(d,[["__scopeId","data-v-64f2ee50"]]);export{m as default};

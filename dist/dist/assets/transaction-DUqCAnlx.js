@@ -1,0 +1,1 @@
+import{H as r}from"./index-Bqka696Z.js";function a(t){return r({url:"/api/transactions/history",method:"get",params:t})}function i(t){return r({url:"/api/cards/history",method:"get",params:t})}export{i as a,a as g};
